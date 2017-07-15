@@ -5,12 +5,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class NotificarFamilhaActivity extends AppCompatActivity {
+public class NotificarFamiliaActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_notificar_familha);
+        setContentView(R.layout.activity_notificar_familia);
     }
 
     public void openLigacao(View view) {

@@ -19,12 +19,24 @@
         <activity android:name=".ColetaDadosActivity" />
         <activity android:name=".MainMenuActivity" />
         <activity android:name=".DetalheMoradorActivity" />
-        <activity android:name=".NotificarFamilhaActivity" />
+        <activity android:name=".NotificarFamiliaActivity" />
         <activity android:name=".LigacaoActivity" />
         <activity android:name=".VerificaAutorizacaoActivity" />
         <activity android:name=".LiberarEntradaActivity" />
         <activity android:name=".QRCodeActivity" />
-        <activity android:name=".LiberarSaidaActivity"></activity>
+        <activity android:name=".LiberarSaidaActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".TelaPrincipalMoradorActivity" />
+        <activity android:name=".HomeMoradorActivity" />
+        <activity android:name=".MoradorAgendarActivity" />
+        <activity android:name=".Morador_Alerta_Activity" />
+        <activity android:name=".Tela_Agendamentos_Morador_Activity" />
+        <activity android:name=".AlterarStatusMoradorActivity" />
+        <activity android:name=".CriarFestaActivity" />
+        <activity android:name=".CriarFesta1Activity" />
+        <activity android:name=".ConvidarFestaActivity" />
+        <activity android:name=".FinalizarConviteFestaActivity" />
+        <activity android:name=".MenuLateralMoradorActivity"></activity>
     </application>
 
 </manifest>
